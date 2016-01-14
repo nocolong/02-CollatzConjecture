@@ -1,0 +1,6 @@
+C:\dev\github\02-CollatzConjecture\Collatz\Collatz\bin\Debug\Collatz.exe.config
+C:\dev\github\02-CollatzConjecture\Collatz\Collatz\bin\Debug\Collatz.exe
+C:\dev\github\02-CollatzConjecture\Collatz\Collatz\bin\Debug\Collatz.pdb
+C:\dev\github\02-CollatzConjecture\Collatz\Collatz\obj\Debug\Collatz.csprojResolveAssemblyReference.cache
+C:\dev\github\02-CollatzConjecture\Collatz\Collatz\obj\Debug\Collatz.exe
+C:\dev\github\02-CollatzConjecture\Collatz\Collatz\obj\Debug\Collatz.pdb
